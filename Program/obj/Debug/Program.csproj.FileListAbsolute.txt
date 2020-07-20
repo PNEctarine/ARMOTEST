@@ -1,0 +1,10 @@
+C:\Users\Никита Полищук\Source\Repos\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Никита Полищук\Source\Repos\Program\Program\bin\Debug\Program.exe
+C:\Users\Никита Полищук\Source\Repos\Program\Program\bin\Debug\Program.pdb
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.exe
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.pdb
+C:\Users\Никита Полищук\Source\Repos\Program\Program\obj\Debug\Program.Form1.resources
